@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1555600439 source:/home/dfoliant/Рабочий стол/Foo001/hw1/myprintf/myprint/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myprint.h"
+
+1555600489 /home/dfoliant/Рабочий стол/Foo001/hw1/myprintf/myprint/myprint.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
